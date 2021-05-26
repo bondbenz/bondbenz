@@ -6,4 +6,4 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 ### Most used Languages & Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bondbenz&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bondbenz)
