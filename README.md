@@ -32,6 +32,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-<img src="http://www.didtechnology.com/wp-content/uploads/logo-linux.png" alt="Linux" height="20" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 <img src="https://www.renzramos.com/wp-content/uploads/2020/05/arduino-logo.png" alt="Linux" height="20" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 
