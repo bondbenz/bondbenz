@@ -1,7 +1,5 @@
 ## Hi there 👋
 ### :octocat: Github Stats
-[![BondBenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bondbenz)](https://github.com/bondbenz)
-
 
 ### 🧰 Most used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bondbenz)
